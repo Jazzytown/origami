@@ -1,0 +1,1 @@
+Many studies assert that origami was invented by the Japanese about a thousand years ago, but its roots may well be in China. It is also highly probable that the process of folding was applied to other materials before paper was invented, so the origins of recreational folding may lie with cloth or leather.

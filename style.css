@@ -1,0 +1,89 @@
+h1 {
+    color: white;
+    margin-left: 30px;
+
+}
+
+/* * {
+    border: solid;
+} */
+.header *{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuogHZGtwHMIqw8x1CrMhwpGgM7KqhiAVN0PRGjjiQ-ALZ5ZiBegNaW7l5lOLir8Mjlo&usqp=CAU");
+  
+}
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+
+body{
+   font-style: oblique;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+  
+}
+
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu{
+    margin-right:30px ;
+}
+
+.menu a{
+    margin-left:15px;
+}
+p,h2{
+    text-align:inherit;
+ 
+}
+
+a:link {
+    color:#e8edf0
+}
+a:visited{
+    color:#dadbe0
+}
+.item{
+position:right;
+}
+.item p{
+position:left;
+top :50%;
+left:50%;
+transform: translate(-50%,-50%);
+}
+.item:hover p{
+    opacity:1;
+}
+.item:hover img{
+    opacity:0.33;
+}
+body{
+    border-style: dotted;
+    border-color: rgb(101, 101, 255);
+    background-image:url("https://wallpapercave.com/wp/wp4738386.jpg")
+}
+button{
+   width: 100mm;
+   height:100mm;
+   font-weight: 500;
+   font-size: 6mm;
+color: blue;
+    background-image: url("https://i.pinimg.com/236x/d5/69/19/d56919a82a157fb7e2bcb7cd95577a27.jpg");
+}
+
